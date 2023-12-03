@@ -1,0 +1,277 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (26.11.2023 0:04:36)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 16 plugins to load
+[Info   :   BepInEx] Loading [Boombox No Power 1.0.0.0]
+[Info   :BoomBox.BoomBoxNoPower] Boombox No Power has awoken
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [Custom LoudHorn SFX 1.0.0]
+[Info   :com.malco.lethalcompany.customhorn] CustomHorn has been Patched
+[Info   :   BepInEx] Loading [Custom Boombox Music 1.3.1]
+[Info   :Custom Boombox Music] Loading...
+[Info   :Custom Boombox Music] Initializing config...
+[Info   :Custom Boombox Music] Config initialized!
+[Info   :Custom Boombox Music] Loading Complete!
+[Info   :   BepInEx] Loading [Compass 1.0.0]
+[Info   :   Compass] Plugin Compass is loaded!
+[Info   :   BepInEx] Loading [ItemQuickSwitchMod 1.1.0]
+[Info   :ItemQuickSwitchMod] ItemQuickSwitchMod is creating binds!
+[Info   :ItemQuickSwitchMod] Plugin ItemQuickSwitchMod is loaded!
+[Info   :   BepInEx] Loading [BetterStamina 1.1.2]
+[Info   :BetterStamina] BindingConfigs
+[Info   :BetterStamina] BetterStamina loaded
+[Info   :   BepInEx] Loading [CustomTelevisionVideo 1.1.2]
+[Info   :CustomTelevisionVideo] BindingConfigs
+[Info   :CustomTelevisionVideo] Using path from config: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\CustomTelevisionVideo\television_video.mp4
+[Info   :CustomTelevisionVideo] CustomTelevisionVideo mod loaded
+[Info   :   BepInEx] Loading [LetMeLookDown 1.0.1]
+[Info   :LetMeLookDown] LetMeLookDown mod loaded
+[Info   :   BepInEx] Loading [LC_API 1.0.0]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LCBetterSaves 1.4.0]
+[Info   :LCBetterSaves] Plugin LCBetterSaves is loaded!
+[Info   :   BepInEx] Loading [MoreCompany 1.5.1]
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle: 
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle: 
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 0.1.0]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [Flashlight 1.0.0]
+[Info   :Flashlight] ------Flashlight done.------
+[Info   :   BepInEx] Loading [Late Company 1.0.4]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [More Suits 1.1.0]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got 2 AssetBundles to load!
+[Message:    LC_API] Got asset for load: assets/diagetic.mixer
+[Message:    LC_API] Loaded asset: Diagetic
+[Message:    LC_API] Got asset for load: assets/compass/compass.png
+[Message:    LC_API] Loaded asset: compass
+[Message:    LC_API] Got asset for load: assets/compass/compass_shifted.png
+[Message:    LC_API] Loaded asset: compass_shifted
+[Message:    LC_API] Got asset for load: assets/compass/compassmask.png
+[Message:    LC_API] Loaded asset: CompassMask
+[Message:    LC_API] Got asset for load: assets/compass/indicatortexture.png
+[Message:    LC_API] Loaded asset: IndicatorTexture
+[Message:    LC_API] Got asset for load: assets/compass/mask.prefab
+[Message:    LC_API] Loaded asset: Mask
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Info   :    LC_API] LC_API Started!
+[Info   :Custom Boombox Music] Preparing to load AudioClips...
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\2007 - tiktonik.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\am i a psycho.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Butch Clancy - Far Away From Me.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Carefree.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\David Guetta - Bad.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\DJ Chris Parker - Symphony .mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\DJ Dux - DJ Dux.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Don Diablo - Knight Time.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\jane air - junk.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\K-931 - Nice Takeoff.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\K-931 - Summertime.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Klywoodjeb - Bebra.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Molchat Doma - sudno.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\nashidremix.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Rick Ross - MC Hammer(Instrumental).mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Run Amok.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\SERYOGA - boomer.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\shnur - mobilnik.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\slavianskii-zazhim-iaitsami.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\The Builder.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Vivacity.mp3!
+[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Zelda - Song of Storms (Deon Custom Remix).mp3!
+[Info   :com.malco.lethalcompany.customhorn] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\CustomHorn\matebal.ogg!
+[Info   :com.malco.lethalcompany.customhorn] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\CustomHorn\where you at(online-audio-converter.com).mp3!
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\2007 - tiktonik.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\am i a psycho.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Butch Clancy - Far Away From Me.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Carefree.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\David Guetta - Bad.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\DJ Chris Parker - Symphony .mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\DJ Dux - DJ Dux.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Don Diablo - Knight Time.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\jane air - junk.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\K-931 - Nice Takeoff.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\K-931 - Summertime.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Klywoodjeb - Bebra.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Molchat Doma - sudno.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\nashidremix.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Rick Ross - MC Hammer(Instrumental).mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Run Amok.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\SERYOGA - boomer.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\shnur - mobilnik.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\slavianskii-zazhim-iaitsami.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\The Builder.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Vivacity.mp3
+[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Zelda - Song of Storms (Deon Custom Remix).mp3
+[Info   :Custom Boombox Music] Applying clips!
+[Info   :Custom Boombox Music] Total Clip Count: 22
+[Error  :com.malco.lethalcompany.customhorn] Failed to load clip at: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\CustomHorn\matebal.ogg
+This might be due to an mismatch between the audio codec and the file extension!
+[Info   :com.malco.lethalcompany.customhorn] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\CustomHorn\where you at(online-audio-converter.com).mp3
+[Info   :com.malco.lethalcompany.customhorn] Clips loaded: 1
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Info   :Custom Boombox Music] Playing Vivacity.mp3
+[Info   :Custom Boombox Music] Applying clips!
+[Info   :Custom Boombox Music] Total Clip Count: 22
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Info   :Custom Boombox Music] Playing The Builder.mp3
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] False
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
+[Error  :Flashlight] True
+[Error  :Flashlight] False
