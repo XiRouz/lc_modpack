@@ -8,7 +8,8 @@ IF EXIST ".git\" (
     echo repository cloned
     robocopy "%cd%\lc_modpack" "%cd%" /E
 )
-del lc_modpack
+rd lc_modpack
 git checkout main
+git reset --hard
 git pull --force
 pause
