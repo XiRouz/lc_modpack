@@ -2,28 +2,32 @@ Pack of silly mods 4 my friends. Feel free to try it, if you somehow stumped upo
 
 ## Included mods
 1. LC_API
-2. BetterStamina
-3. BoomBoxNoPower
-4. Compass
-5. CustomBoomboxTracks
-6. CustomTelevisionVideo
-7. FlashlightToggle
-8. ItemQuickSwitchMod
-9. LateCompany
-10. LCBetterSaves
-11. LetMeLookDown
-12. LoudHornCustomizer
-13. MoreCompany
-14. MoreEmotes
-15. MoreSuits
-16. ObjectVolumeController
-17. QuickRestart
-18. ShipLoot
-19. SkipToMultiplayerMenu
+2. BetterItemScan
+3. BetterStamina
+4. BoomBoxNoPower
+5. Compass
+6. CustomBoomboxTracks
+7. CustomTelevisionVideo
+8. FlashlightToggle
+9. HealthMetrics
+10. ItemQuickSwitchMod
+11. LateCompany
+12. LCBetterSaves
+13. LetMeLookDown
+14. LoudHornCustomizer
+15. MoreCompany
+16. MoreEmotes
+17. MoreItems
+18. MoreSuits
+19. ObjectVolumeController
+20. QuickRestart
+21. ShipLoot
+22. SkipToMultiplayerMenu
+23. TooManySuits
 
 
 ## Emotes
-Emotes moved from keys 1 and 2 to F1, F2, F3
+Emotes moved from keys 1 and 2 to F1, F2, F3, etc
 
 ## Optional mods
 Some mods to use at your own risk and if needed.

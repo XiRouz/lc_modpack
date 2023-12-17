@@ -12,6 +12,7 @@ IF EXIST ".git\" (
     robocopy "%cd%\lc_modpack" "%cd%" /E
 )
 IF EXIST ".lc_modpack\" (
+    echo git modpack folder delete
     rd /s /q "lc_modpack"
 )
 
