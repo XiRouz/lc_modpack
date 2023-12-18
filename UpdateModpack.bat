@@ -1,7 +1,7 @@
 @echo off
 winget install --id Git.Git -e --source winget
 
-IF EXIST "git\" (
+IF EXIST ".git\" (
     echo repository exists
 ) ELSE (
     IF EXIST "BepInEx\" (
