@@ -7,7 +7,9 @@ Pack of silly mods 4 my friends. Feel free to try it, if you somehow stumped upo
 1. Compass
 1. CustomBoomboxTracks
 1. CustomTelevisionVideo
+1. EnemyScan
 1. FlashlightToggle
+1. HDLethalCompany
 1. HealthMetrics
 1. ItemQuickSwitchMod
 1. LateCompany
@@ -20,17 +22,20 @@ Pack of silly mods 4 my friends. Feel free to try it, if you somehow stumped upo
 1. MoreSuits
 1. ObjectVolumeController
 1. QuickRestart
+1. ScanFix
 1. ShipLoot
 1. SkipToMultiplayerMenu
+1. TerminalAPI
 1. TooManySuits
 
 
 ## Emotes
 Emotes moved from keys 1 and 2 to F1, F2, F3, etc
 
+Key "v" - default keybind for Emotes wheel
+
 ## Optional mods
 Some mods to use at your own risk and if needed.
 
 Now includes:
-1. HD Lethal Company textures
-2. HelmetCamera
+1. HelmetCamera
